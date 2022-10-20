@@ -1,10 +1,11 @@
-[![Community Extension](https://img.shields.io/badge/Community%20Extension-An%20open%20source%20community%20maintained%20project-FF4700)](https://github.com/camunda-community-hub/community)
-[![](https://img.shields.io/badge/Lifecycle-Incubating-blue)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#incubating-)
+# Camunda Helm Charts
+![Community Extension](https://img.shields.io/badge/Community%20Extension-An%20open%20source%20community%20maintained%20project-FF4700)
+[![Lifecycle:Incubating](https://img.shields.io/badge/Lifecycle-Incubating-blue)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#incubating-)
+![Compatible with: Camunda Platform 7](https://img.shields.io/badge/Compatible%20with-Camunda%20Platform%207-26d07c)
 
-# Welcome to the Camunda Community Hub Repository Template!
+Community-run Camunda apps Helm charts for deployment on Kubernetes.
 
-The Camunda Community Hub is a project to empower our open source community extension maintainers, and encourage new contributors to get started contributing to the Camunda open source ecosystem.
+## Contributing
 
-If you are building a new Camunda Community extension, please follow the instructions detailed in our [Community Repository](https://github.com/camunda-community-hub/community). Once those steps had been completed, please feel free to make use of this repository to build your new extension from!
-
-
+## License
+This is open source software licensed using the Apache License 2.0. Please see [LICENSE](LICENSE) for details.
